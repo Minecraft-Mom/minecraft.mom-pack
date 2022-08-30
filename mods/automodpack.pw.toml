@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "AutoModpack-1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/S88RCxgD/AutoModpack-1.18.x.jar"
+hash-format = "sha1"
+hash = "87b35f4ff498609d24546b5aa2f5600c4542661e"
+
+[update]
+[update.modrinth]
+mod-id = "k68glP2e"
+version = "S88RCxgD"

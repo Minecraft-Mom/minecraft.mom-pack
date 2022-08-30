@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/automodpack.pw.toml"
+hash = "21df6d6037e90f7aa6c2f97c2a40e19b772cd38a27041115dff27034a3932d0c"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "6beb7a327705d0aadf3055291927bca2ae9e2737a669fcb1b6c4812b2a458447"

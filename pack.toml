@@ -1,0 +1,13 @@
+name = "Minecraft.mom"
+author = "Ethan Spangler"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f44edb4e387f47744f837773e9dcc0fc4b3e3aca1dd812eaa5f0a48985672818"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"
